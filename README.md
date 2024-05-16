@@ -1,12 +1,12 @@
 
-1. Login or Sign Up to [GitHub](https://github.com/login)
+1. Login or Sign Up to [GitHub]
 2. Use this as template or Fork.
 
-    - **Use as Template (Recommended):** just Click on `Use this template` and `Create a new Repository` or just      [Click Here](https://github.com/sanjib-sen/weblatex/generate)
+    - **Use as Template (Recommended):** just Click on `Use this template` and `Create a new Repository` 
     
     Or,
     
-    - **Fork:** Fork this repository or just [Click Here](https://github.com/sanjib-sen/weblatex/fork)
+    - **Fork:** Fork this repository or just 
     
 3. Give it a name and select **Create Fork / Create repository from template**
 4. Select **<> Code** > **CodeSpaces** > **Create Codespace on Main**
